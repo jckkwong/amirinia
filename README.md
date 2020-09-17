@@ -1,7 +1,6 @@
+![Header](https://github.com/amirinia/amirinia/blob/master/dino.gif "Header")
 
-[![Header](https://github.com/amirinia/amirinia/blob/master/dino.gif "Header")]
-
-# Hello, All! 
+# Hello, All!  👋
 
 My name is Hossein and I'm a software developer/ engineer. You can find me on [![Twitter][1.2]][1],  or on   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/amirinia) or on [![Visits](https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/amirinia)
 
@@ -53,9 +52,9 @@ My name is Hossein and I'm a software developer/ engineer. You can find me on [!
 
 
 
-### Here is what I'm working On! 👋
+### Here is what I'm working On!
 
-  <img align="center" alt="GIF" src="https://github.com/amirinia/amirinia/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="center" alt="GIF" src="https://github.com/amirinia/amirinia/blob/master/code.gif?raw=true" width="550" height="352" />
 
 
 📊 **This Week I Spent My Time On:**
@@ -69,5 +68,3 @@ HTML              30 mins         █▒░░░░░░░░░░░░░�
 CSS               14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 ```
 <!--END_SECTION:waka-->
-
-
