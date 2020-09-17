@@ -1,44 +1,3 @@
-### Here is what I'm working On! 👋
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Sati
-- 🌱 I’m currently learning ... Flask and Hadoop
-- 👯 I’m looking to collaborate on ... Big Data
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... amirinia <at> gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
--->
-
-
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-
-
-
 
 [![Header](https://master/readme_header.png "Header")](https://.dev/)
 
@@ -61,7 +20,7 @@ Apart from coding, I
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/amirinia/amirinia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirinia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
    
@@ -71,3 +30,25 @@ Apart from coding, I
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+
+
+
+### Here is what I'm working On! 👋
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ... Sati
+- 🌱 I’m currently learning ... Flask and Hadoop
+- 👯 I’m looking to collaborate on ... Big Data
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... amirinia <at> gmail.com
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ...
+-->
+
+
+
+
+
