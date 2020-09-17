@@ -1,9 +1,9 @@
 
-[![Header](https://github.com/amirinia/amirinia/blob/master/dino.gif "Header")](https://.dev/)
+[![Header](https://github.com/amirinia/amirinia/blob/master/dino.gif "Header")]
 
-# Hello, All! <img src="https://master/wave.gif" width="30px">
+# Hello, All! 
 
-My name is Hossein and I'm a software developer/DevOps engineer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Hossein and I'm a software developer/ engineer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
 ## 🔧 Technologies & Tools
@@ -17,7 +17,7 @@ My name is Hossein and I'm a software developer/DevOps engineer. You can find me
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/amirinia/amirinia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirinia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirinia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Amirinia's GitHub Stats" />
 </a>
 
    
@@ -33,7 +33,7 @@ My name is Hossein and I'm a software developer/DevOps engineer. You can find me
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
+[3.2]: https://i.imgur.com/0IdggSZ.png (linkedin icon with padding)
 
 <!-- links to your social media accounts -->
 
