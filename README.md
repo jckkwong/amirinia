@@ -52,10 +52,11 @@ My name is Hossein and I'm a software developer/ engineer. You can find me on [!
 
 ### Here is what I'm working On! 👋
 
-  <img align="right" alt="GIF" src="https://github.com/amirinia/amirinia/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="center" alt="GIF" src="https://github.com/amirinia/amirinia/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 📊 **This Week I Spent My Time On:**
+
 <!--START_SECTION:waka-->
 ```text
 Oython   6 hrs 28 mins   ███████████████▓░░░░░░░░░   62.52 % 
