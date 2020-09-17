@@ -1,13 +1,10 @@
 
 [![Header](https://github.com/amirinia/amirinia/blob/master/dino.gif "Header")](https://.dev/)
 
-# Hello, folks! <img src="https://master/wave.gif" width="30px">
+# Hello, All! <img src="https://master/wave.gif" width="30px">
 
 My name is Hossein and I'm a software developer/DevOps engineer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -44,6 +41,12 @@ Apart from coding, I
 [1]: https://twitter.com/amirinia
 [2]: https://github.com/amirinia
 [3]: https://www.linkedin.com/in/amirinia/
+
+
+
+## Programming Languages
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/vscode.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c#.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> 
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
 
 
 ### Here is what I'm working On! 👋
