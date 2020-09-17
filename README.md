@@ -33,7 +33,6 @@ My name is Hossein and I'm a software developer/DevOps engineer. You can find me
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
@@ -45,26 +44,25 @@ My name is Hossein and I'm a software developer/DevOps engineer. You can find me
 
 
 ## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/vscode.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c#.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> 
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 ### Here is what I'm working On! 👋
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Sati
-- 🌱 I’m currently learning ... Flask and Hadoop
-- 👯 I’m looking to collaborate on ... Big Data
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... amirinia <at> gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
--->
+  <img align="right" alt="GIF" src="https://github.com/amirinia/amirinia/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Oython   6 hrs 28 mins   ███████████████▓░░░░░░░░░   62.52 % 
+C#     2 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+Wordpress         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+HTML         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+CSS         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+```
+<!--END_SECTION:waka-->
 
 
