@@ -1,5 +1,5 @@
 
-[![Header](https://master/readme_header.png "Header")](https://.dev/)
+[![Header](https://github.com/amirinia/amirinia/blob/master/dino.gif "Header")](https://.dev/)
 
 # Hello, folks! <img src="https://master/wave.gif" width="30px">
 
