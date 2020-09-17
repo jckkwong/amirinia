@@ -3,7 +3,8 @@
 
 # Hello, All! 
 
-My name is Hossein and I'm a software developer/ engineer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Hossein and I'm a software developer/ engineer. You can find me on [![Twitter][1.2]][1],  or on   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/amirinia)
+
 
 
 ## 🔧 Technologies & Tools
