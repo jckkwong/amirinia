@@ -49,7 +49,7 @@ My name is Hossein and I'm a software developer/ engineer. You can find me on  [
 
 <!--START_SECTION:waka-->
 ```text
-Oython            6 hrs 28 mins   ███████████████▓░░░░░░░░░   62.52 % 
+Python            6 hrs 28 mins   ███████████████▓░░░░░░░░░   62.52 % 
 C#                2 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
 Wordpress         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 HTML              30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
