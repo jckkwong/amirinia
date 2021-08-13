@@ -9,14 +9,12 @@ My name is Hossein and I'm a software developer/ engineer. You can find me on  [
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/static/v1?label=<Tools>&&logo=Pandas&message=<Pandas>&color=2bbc8a)
 ![](https://img.shields.io/static/v1?label=<Tools>&message=<numpy>&color=<COLOR>)
 ![](https://img.shields.io/static/v1?label=<Tools>&message=<Tensorflow>&color=<COLOR>)
 ![](https://img.shields.io/static/v1?label=<Tools>&message=<flask>&color=<COLOR>)
 ![](https://img.shields.io/static/v1?label=<Tools>&message=<AWS>&color=<COLOR>)
-![](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
-![](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
+
 
 
 
@@ -50,8 +48,8 @@ My name is Hossein and I'm a software developer/ engineer. You can find me on  [
 <!--START_SECTION:waka-->
 ```text
 Python            6 hrs 28 mins   ███████████████▓░░░░░░░░░   62.52 % 
-C#                2 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-Wordpress         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+ML                2 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+NLP               31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 HTML              30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 CSS               14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 ```
